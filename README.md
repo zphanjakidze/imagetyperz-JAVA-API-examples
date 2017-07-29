@@ -1,0 +1,1 @@
+# imagetyperz-JAVA-API-examples
